@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+.tables{
+  margin-top: 25px;
+  margin-left: 455px;
+  scroll-behavior: smooth;
+}
+.srno-head{
+  text-align: center !important;
+}
+.srno{
+  text-align: center !important;
+}
+
+.table-row{
+  font-weight: 700;
+  text-align: left;
+}
+.name-head{
+  text-align: left !important;
+}
+
+.names{
+  text-align: left !important;
+  
+}
+.actions-head{
+  text-align: center !important;
+}
+.status-head{
+  text-align: center !important;
+}
+.status{
+  text-align: center !important;
+}
+.actions{
+  text-align: center !important;
+}
+
+/* .table-row-value{
+  margin: 10px;
+} */
+.result-id{
+  padding-right: 40px;
+}
+.result-name{
+  padding-left: 40px;
+  padding-right: 40px;
+  text-align: justify;
+}
+.result-truefalse{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.btn-edit{
+  margin: 5px;
+}
+.error{
+  position: absolute;
+  color:red;font-size: .6rem;
+}

@@ -1,0 +1,17 @@
+.input-name{
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    margin: 10px;
+}
+.select-input{
+    border: none;
+    border-bottom: 1px solid black;
+    outline: none;
+}
+.button{
+    width: 150px;
+    height: 40px;
+    border-radius: 6px;
+    background-color: palegreen;
+}
